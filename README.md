@@ -4,7 +4,7 @@
 
 # Linux Network Commands
 
-| Command       | Description                                              | <!-- Add any additional notes here if needed --> |
+| Command       | Description                                              | Example |
 |---------------|----------------------------------------------------------|-------------------------------------------------|
 | ifconfig      | Displays the configuration of all active network interfaces on the system including IP addresses, MAC addresses, and more. | <!-- Add any additional notes here if needed --> |
 | ip            | A versatile command to manage network interfaces, IP addresses, routing, and tunnels. | <!-- Add any additional notes here if needed --> |
