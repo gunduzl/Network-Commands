@@ -5,7 +5,7 @@
 
 | Command       | Description                                              | Example |
 |---------------|----------------------------------------------------------|-------------------------------------------------|
-| ifconfig      | Displays the configuration of all active network interfaces on the system including IP addresses, MAC addresses, and more. | <!-- Add any additional notes here if needed --> |
+| ifconfig      | Displays the configuration of all active network interfaces on the system including IP addresses, MAC addresses, and more. | ![carbon (2)](https://github.com/gunduzl/Network-Commands/assets/69585166/4fc12585-2e2f-4c44-a916-367c1bbde1ad) |
 | ip            | A versatile command to manage network interfaces, IP addresses, routing, and tunnels. | <!-- Add any additional notes here if needed --> |
 | ping          | Tests connectivity between two hosts by sending ICMP echo requests and waiting for ICMP echo replies. | <!-- Add any additional notes here if needed --> |
 | traceroute    | Displays the route that packets take to reach a destination by sending packets with increasing TTL values and analyzing the responses. | <!-- Add any additional notes here if needed --> |
