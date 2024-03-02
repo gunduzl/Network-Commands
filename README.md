@@ -7,7 +7,7 @@
 |---------------|----------------------------------------------------------|-------------------------------------------------|
 | ifconfig      | Displays the configuration of all active network interfaces on the system including IP addresses, MAC addresses, and more. | ![carbon (2)](https://github.com/gunduzl/Network-Commands/assets/69585166/4fc12585-2e2f-4c44-a916-367c1bbde1ad) |
 | ip            | The ip command is a more comprehensive and modern alternative to ifconfig for network configuration and management in Unix-like systems. It offers extensive functionality including address management, routing, device manipulation, policy routing, and tunnel configuration.  | ![carbon (3)](https://github.com/gunduzl/Network-Commands/assets/69585166/1a8f179a-6f40-4608-bc56-dad6734833ba) |
-| ping          | Tests connectivity between two hosts by sending ICMP echo requests and waiting for ICMP echo replies. | <!-- Add any additional notes here if needed --> |
+| ping          | Tests connectivity between two hosts by sending ICMP echo requests and waiting for ICMP echo replies. | ![carbon (4)](https://github.com/gunduzl/Network-Commands/assets/69585166/f22106c1-7967-4901-acfa-f5116b478bcc) |
 | traceroute    | Displays the route that packets take to reach a destination by sending packets with increasing TTL values and analyzing the responses. | <!-- Add any additional notes here if needed --> |
 | netstat       | Displays various network-related information such as active network connections, routing tables, interface statistics, etc. | <!-- Add any additional notes here if needed --> |
 | nslookup      | Performs DNS lookup to retrieve domain name or IP address information from DNS servers. | <!-- Add any additional notes here if needed --> |
