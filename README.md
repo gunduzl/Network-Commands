@@ -10,8 +10,8 @@
 | ping          | Tests connectivity between two hosts by sending ICMP echo requests and waiting for ICMP echo replies. | ![carbon (4)](https://github.com/gunduzl/Network-Commands/assets/69585166/f22106c1-7967-4901-acfa-f5116b478bcc) |
 | traceroute    | Displays the route that packets take to reach a destination by sending packets with increasing TTL values and analyzing the responses. | ![carbon (5)](https://github.com/gunduzl/Network-Commands/assets/69585166/ffcd4094-c86b-4e11-b56f-127c6d19e7bb) |
 | netstat       | Displays various network-related information such as active network connections, routing tables, interface statistics, etc. | ![carbon (6)](https://github.com/gunduzl/Network-Commands/assets/69585166/92c0b4ff-28c0-45d2-a428-1d53d187fa36) |
-| nslookup      | Performs DNS lookup to retrieve domain name or IP address information from DNS servers. | <!-- Add any additional notes here if needed --> |
-| dig           | Another DNS lookup utility that provides more detailed information about DNS records and server responses. | <!-- Add any additional notes here if needed --> |
+| nslookup      | Performs DNS lookup to retrieve domain name or IP address information from DNS servers. | ![carbon (8)](https://github.com/gunduzl/Network-Commands/assets/69585166/e912026c-58dc-4ea6-ba20-e995890b7e8a) |
+| dig           | Another DNS lookup utility that provides more detailed information about DNS records and server responses. | ![carbon (9)](https://github.com/gunduzl/Network-Commands/assets/69585166/db725470-22be-4f90-8e88-0f5c9081f98c) |
 | hostname      | Displays or sets the hostname of the system.             | <!-- Add any additional notes here if needed --> |
 | route         | Displays or modifies the IP routing table, including adding or deleting routes. | <!-- Add any additional notes here if needed --> |
 | iwconfig      | Displays information about wireless network interfaces, including their configuration. | <!-- Add any additional notes here if needed --> |
