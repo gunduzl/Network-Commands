@@ -36,5 +36,4 @@
 | curl          | A command-line tool used to transfer data to or from a server, supporting various protocols including HTTP, HTTPS, FTP, etc. | <!-- Add any additional notes here if needed --> |
 | wget          | Another command-line tool for downloading files from the internet using HTTP, HTTPS, or FTP protocols. | <!-- Add any additional notes here if needed --> |
 
-Feel free to explore and experiment with these commands to better understand and manage your network connections and configurations.
 
