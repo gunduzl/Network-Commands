@@ -12,7 +12,7 @@
 | netstat       | Displays various network-related information such as active network connections, routing tables, interface statistics, etc. | ![carbon (6)](https://github.com/gunduzl/Network-Commands/assets/69585166/92c0b4ff-28c0-45d2-a428-1d53d187fa36) |
 | nslookup      | Performs DNS lookup to retrieve domain name or IP address information from DNS servers. | ![carbon (8)](https://github.com/gunduzl/Network-Commands/assets/69585166/e912026c-58dc-4ea6-ba20-e995890b7e8a) |
 | dig           | Another DNS lookup utility that provides more detailed information about DNS records and server responses. | ![carbon (9)](https://github.com/gunduzl/Network-Commands/assets/69585166/db725470-22be-4f90-8e88-0f5c9081f98c) |
-| hostname      | Displays or sets the hostname of the system.             | <!-- Add any additional notes here if needed --> |
+| hostname      | Displays or sets the hostname of the system.             | ![carbon (10)](https://github.com/gunduzl/Network-Commands/assets/69585166/b91a1358-0700-466d-9418-a2a7f65e5146) |
 | route         | Displays or modifies the IP routing table, including adding or deleting routes. | <!-- Add any additional notes here if needed --> |
 | iwconfig      | Displays information about wireless network interfaces, including their configuration. | <!-- Add any additional notes here if needed --> |
 | iwlist        | Displays more detailed information about wireless networks, such as available networks and their properties. | <!-- Add any additional notes here if needed --> |
