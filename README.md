@@ -2,7 +2,6 @@
 
 # Linux Network Commands
 
-# Linux Network Commands
 
 | Command       | Description                                              | Example |
 |---------------|----------------------------------------------------------|-------------------------------------------------|
