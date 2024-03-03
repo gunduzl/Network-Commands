@@ -40,14 +40,16 @@
 
 1. **Create Bash File**:
 
-  Create a bash file. I will create a network.sh file
+    Create a bash file. I will create a network.sh file
 
-      ```bash
-   nano network.sh
+   ```bash
+     nano network.sh
    ```
-   In this example. I will combine 3 networking commands `ping` `traceroute` `nslookup`. So I will put that into my network.sh
 
-      ```bash
+
+   In this example. I will combine 3 networking commands `ping` `traceroute` `nslookup`. So I will put that into my network.sh
+  
+  ```bash
       #!/bin/bash
    
    # Check if a domain is provided
