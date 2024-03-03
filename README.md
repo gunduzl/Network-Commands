@@ -29,3 +29,44 @@
 | wget          | Another command-line tool for downloading files from the internet using HTTP, HTTPS, or FTP protocols. | <!-- Add any additional notes here if needed --> |
 
 
+
+
+
+## Creating Custom Command in macOS
+
+To create a custom command in macOS, follow these steps:
+
+1. **Navigate to the Script Directory**:
+
+   Assuming you're in the directory where your updated script is located.
+
+2. **Remove the Old Script (if needed)**:
+
+   If there's already an older version of your script in the `/usr/local/bin` directory, you may want to remove it. Run the following command:
+
+   ```bash
+   sudo rm /usr/local/bin/network
+   ```
+
+3. **Move the Updated Script**:
+
+   Move your updated script (`network.sh` in this case) to the `/usr/local/bin` directory using the following command:
+
+   ```bash
+   sudo mv network.sh /usr/local/bin/network
+   ```
+
+4. **Set Execution Permission (if needed)**:
+
+   If the script doesn't have execution permission, grant it using the following command:
+
+   ```bash
+   sudo chmod +x /usr/local/bin/network
+   ```
+
+Once you've completed these steps, your custom command `network` should be updated and ready to use.
+
+![carbon12](https://github.com/gunduzl/Network-Commands/assets/69585166/da8b8110-b7a9-4ba1-90d5-3ac082203c71)
+
+
+
