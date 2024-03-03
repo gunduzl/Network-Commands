@@ -13,7 +13,7 @@
 | nslookup      | Performs DNS lookup to retrieve domain name or IP address information from DNS servers. | ![carbon (8)](https://github.com/gunduzl/Network-Commands/assets/69585166/e912026c-58dc-4ea6-ba20-e995890b7e8a) |
 | dig           | Another DNS lookup utility that provides more detailed information about DNS records and server responses. | ![carbon (9)](https://github.com/gunduzl/Network-Commands/assets/69585166/db725470-22be-4f90-8e88-0f5c9081f98c) |
 | hostname      | Displays or sets the hostname of the system.             | ![carbon (10)](https://github.com/gunduzl/Network-Commands/assets/69585166/b91a1358-0700-466d-9418-a2a7f65e5146) |
-| route         | Displays or modifies the IP routing table, including adding or deleting routes. | <!-- Add any additional notes here if needed --> |
+| route         | Displays or modifies the IP routing table, including adding or deleting routes.  It allows users to add, delete, or modify routes in the routing table, which determines how network packets are forwarded to their destinations. | ![carbon(11)](https://github.com/gunduzl/Network-Commands/assets/69585166/99dcc440-8165-4cc7-907c-fbbdec43192e) |
 | iwconfig      | Displays information about wireless network interfaces, including their configuration. | <!-- Add any additional notes here if needed --> |
 | iwlist        | Displays more detailed information about wireless networks, such as available networks and their properties. | <!-- Add any additional notes here if needed --> |
 | ss            | A replacement for netstat, used to display socket statistics, including TCP, UDP, and UNIX sockets. | <!-- Add any additional notes here if needed --> |
