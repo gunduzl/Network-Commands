@@ -32,6 +32,8 @@
 
 
 
+
+
 ## Creating Custom Command 
 
 
@@ -99,7 +101,9 @@
    sudo chmod +x /usr/local/bin/network
    ```
 
+
 Once you've completed these steps, your custom command `network` should be updated and ready to use.
+
 
 ![carbon12](https://github.com/gunduzl/Network-Commands/assets/69585166/da8b8110-b7a9-4ba1-90d5-3ac082203c71)
 
