@@ -32,9 +32,9 @@
 
 
 
-## Creating Custom Command in macOS
+## Creating Custom Command 
 
-To create a custom command in macOS, follow these steps:
+
 
 1. **Create Bash File**:
 
