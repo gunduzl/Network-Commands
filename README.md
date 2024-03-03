@@ -40,7 +40,7 @@
 
 1. **Create Bash File**:
 
-   Assuming you're in the directory where your updated script is located. Create a bash file. I will create a network.sh file
+  Create a bash file. I will create a network.sh file
 
       ```bash
    nano network.sh
