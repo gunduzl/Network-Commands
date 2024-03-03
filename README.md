@@ -25,7 +25,7 @@
 | nmap          | A powerful network scanner used for discovering hosts and services on a network. | <!-- Add any additional notes here if needed --> |
 | iftop         | A command-line tool that displays bandwidth usage on an interface by host. | <!-- Add any additional notes here if needed --> |
 | mtr           | Combines the functionality of ping and traceroute, providing both network latency and path information. | <!-- Add any additional notes here if needed --> |
-| curl          | A command-line tool used to transfer data to or from a server, supporting various protocols including HTTP, HTTPS, FTP, etc. | <!-- Add any additional notes here if needed --> |
+| curl          | A command-line tool used to transfer data to or from a server, supporting various protocols including HTTP, HTTPS, FTP, etc. | ![carbon (7)](https://github.com/gunduzl/Network-Commands/assets/69585166/e6262f16-6ad4-42cc-8374-9709471d6d4e) |
 | wget          | Another command-line tool for downloading files from the internet using HTTP, HTTPS, or FTP protocols. | <!-- Add any additional notes here if needed --> |
 
 
