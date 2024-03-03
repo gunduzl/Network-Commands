@@ -36,11 +36,46 @@
 
 To create a custom command in macOS, follow these steps:
 
-1. **Navigate to the Script Directory**:
+1. **Create Bash File**:
 
-   Assuming you're in the directory where your updated script is located.
+   Assuming you're in the directory where your updated script is located. Create a bash file. I will create a network.sh file
 
-2. **Remove the Old Script (if needed)**:
+      ```bash
+   nano network.sh
+   ```
+   In this example. I will combine 3 networking commands `ping` `traceroute` `nslookup`. So I will put that into my network.sh
+
+      ```bash
+      #!/bin/bash
+   
+   # Check if a domain is provided
+   if [ -z "$1" ]; then
+       echo "Usage: $0 <domain>"
+       exit 1
+   fi
+   
+   domain="$1"
+   
+   # Perform the ping
+   echo "Performing ping for $domain"
+   ping -c 5 "$domain"
+   echo -e "\nPing command completed\n"
+   
+   # Perform the traceroute
+   echo "Performing traceroute for $domain"
+   traceroute "$domain"
+   echo -e "\nTraceroute command completed\n"
+   
+   # Perform the nslookup
+   echo "Performing nslookup for $domain"
+   nslookup "$domain"
+   echo -e "\nNslookup command completed\n"
+
+      echo -e "\nAll Commands Have Been Executed\n"
+   ```
+   
+
+3. **Remove the Old Script (if needed)**:
 
    If there's already an older version of your script in the `/usr/local/bin` directory, you may want to remove it. Run the following command:
 
@@ -48,7 +83,7 @@ To create a custom command in macOS, follow these steps:
    sudo rm /usr/local/bin/network
    ```
 
-3. **Move the Updated Script**:
+4. **Move the Updated Script**:
 
    Move your updated script (`network.sh` in this case) to the `/usr/local/bin` directory using the following command:
 
@@ -56,7 +91,7 @@ To create a custom command in macOS, follow these steps:
    sudo mv network.sh /usr/local/bin/network
    ```
 
-4. **Set Execution Permission (if needed)**:
+5. **Set Execution Permission (if needed)**:
 
    If the script doesn't have execution permission, grant it using the following command:
 
